@@ -21,7 +21,7 @@
 
 		.tombol {
 			width: 100px;
-			background-color: #f2f2f2;
+			background-color: salmon;
 		}
 	</style>
 

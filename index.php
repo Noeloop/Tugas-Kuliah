@@ -13,7 +13,7 @@
 
 		.judul {
 			width: 200px;
-			height: 100px;
+			height: 500px;
 		}
 
 		.field {

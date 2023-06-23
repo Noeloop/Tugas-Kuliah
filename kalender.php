@@ -11,7 +11,8 @@ $bulan = array(
 	'Agustus',
 	'September',
 	'Oktober',
-	'November'
+	'November',
+	"Desember"
 );
 
 
